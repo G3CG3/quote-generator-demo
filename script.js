@@ -39,4 +39,4 @@ function generateMessage(components) {
 }
 
 // Test the generator
-// console.log(generateMessage(messageComponents));
+console.log(generateMessage(messageComponents));
